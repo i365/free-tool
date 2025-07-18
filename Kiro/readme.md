@@ -8,3 +8,5 @@ it is free for beta now.
 [how to download kiro, get download link](https://develop365.gitlab.io/kiro/how-to-download-kiro/)
 
 Although the official download portal has been closed, you can download the installer from here.
+
+Kiro can serve as an alternative to Cursor editor.
